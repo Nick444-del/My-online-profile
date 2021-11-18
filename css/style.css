@@ -233,7 +233,7 @@ html::-webkit-scrollbar-thumb{
 }
 
 .container .information .skills .box-container .box:last-child .progress:nth-child(1) .bar span{
-  width: 7%;
+  width: 70%;
 }
 
 .container .information .experience{
