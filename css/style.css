@@ -112,26 +112,8 @@ html::-webkit-scrollbar-thumb{
   background: var(--light-bg);
 }
 
-.container .profile .share a #facebook:hover{
-  background: #4267B2;
-  color:var(--white);
-  box-shadow: var(--box-shadow);
-}
-
-.container .profile .share a #twitter:hover{
-  background: #1DA1F2;
-  color:var(--white);
-  box-shadow: var(--box-shadow);
-}
-
-.container .profile .share a #linkedin:hover{
-  background: #0077B5;
-  color:var(--white);
-  box-shadow: var(--box-shadow);
-}
-
-.container .profile .share a #github:hover{
-  background: #4183C4;
+.container .profile .share a:hover{
+  background: var(--blue);
   color:var(--white);
   box-shadow: var(--box-shadow);
 }
