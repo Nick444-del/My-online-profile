@@ -236,6 +236,10 @@ html::-webkit-scrollbar-thumb{
   width: 70%;
 }
 
+.container .information .skills .box-container .box:last-child .progress:nth-child(2) .bar span{
+  width: 60%;
+}
+
 .container .information .certification{
   margin: 20px 0;
 }
